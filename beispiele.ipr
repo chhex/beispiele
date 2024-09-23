@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ClojureProjectResolveSettings">
+    <currentScheme>IDE</currentScheme>
+  </component>
+  <component name="CodeComments" version="1">
+    <comments />
+  </component>
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="beispiele" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="beispiele" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="GroovyCompilerProjectConfiguration">
+    <option name="configScript" value="/usr/local/Cellar/groovy/3.0.8/bin/groovyc" />
+  </component>
+  <component name="InspectionProjectProfileManager">
+    <profile version="1.0">
+      <option name="myName" value="Project Default" />
+    </profile>
+    <version value="1.0" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="beispiele" options="" />
+    </option>
+  </component>
+  <component name="MarkdownProjectSettings">
+    <PreviewSettings splitEditorLayout="SPLIT" splitEditorPreview="PREVIEW" useGrayscaleRendering="false" zoomFactor="1.0" maxImageWidth="0" synchronizePreviewPosition="true" highlightPreviewType="LINE" highlightFadeOut="5" highlightOnTyping="true" synchronizeSourcePosition="true" verticallyAlignSourceAndPreviewSyncPosition="true" showSearchHighlightsInPreview="true" showSelectionInPreview="true" lastLayoutSetsDefault="false">
+      <PanelProvider>
+        <provider providerId="com.vladsch.md.nav.editor.swing.html.panel" providerName="Default - Swing" />
+      </PanelProvider>
+    </PreviewSettings>
+    <ParserSettings gitHubSyntaxChange="false" correctedInvalidSettings="false" emojiShortcuts="1" emojiImages="0">
+      <PegdownExtensions>
+        <option name="ANCHORLINKS" value="true" />
+        <option name="ATXHEADERSPACE" value="true" />
+        <option name="FENCED_CODE_BLOCKS" value="true" />
+        <option name="INTELLIJ_DUMMY_IDENTIFIER" value="true" />
+        <option name="RELAXEDHRULES" value="true" />
+        <option name="STRIKETHROUGH" value="true" />
+        <option name="TABLES" value="true" />
+        <option name="TASKLISTITEMS" value="true" />
+      </PegdownExtensions>
+      <ParserOptions>
+        <option name="COMMONMARK_LISTS" value="true" />
+        <option name="EMOJI_SHORTCUTS" value="true" />
+        <option name="GFM_TABLE_RENDERING" value="true" />
+        <option name="PRODUCTION_SPEC_PARSER" value="true" />
+        <option name="SIM_TOC_BLANK_LINE_SPACER" value="true" />
+      </ParserOptions>
+    </ParserSettings>
+    <HtmlSettings headerTopEnabled="false" headerBottomEnabled="false" bodyTopEnabled="false" bodyBottomEnabled="false" addPageHeader="false" imageUriSerials="false" addDocTypeHtml="true" noParaTags="false" plantUmlConversion="0">
+      <GeneratorProvider>
+        <provider providerId="com.vladsch.md.nav.editor.text.html.generator" providerName="Unmodified HTML Generator" />
+      </GeneratorProvider>
+      <headerTop />
+      <headerBottom />
+      <bodyTop />
+      <bodyBottom />
+    </HtmlSettings>
+    <CssSettings previewScheme="UI_SCHEME" cssUri="" isCssUriEnabled="false" isCssUriSerial="true" isCssTextEnabled="false" isDynamicPageWidth="true">
+      <StylesheetProvider>
+        <provider providerId="com.vladsch.md.nav.editor.text.html.css" providerName="No Stylesheet" />
+      </StylesheetProvider>
+      <ScriptProviders />
+      <cssText />
+      <cssUriHistory />
+    </CssSettings>
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/beispiele.iml" filepath="$PROJECT_DIR$/beispiele.iml" />
+    </modules>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="snapshots" />
+      <option name="url" value="https://artifactory4t4apgsga.jfrog.io/artifactory/snapshots" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo" />
+      <option name="name" value="repo" />
+      <option name="url" value="https://artifactory4t4apgsga.jfrog.io/artifactory/repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases" />
+      <option name="name" value="releases" />
+      <option name="url" value="https://artifactory4t4apgsga.jfrog.io/artifactory/releases" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
+  <component name="libraryTable">
+    <library name="Maven: org.apiguardian:apiguardian-api:1.1.2">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/maven/gradle/repo/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/maven/gradle/repo/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$USER_HOME$/maven/gradle/repo/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.junit.jupiter:junit-jupiter-api:5.9.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/maven/gradle/repo/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/maven/gradle/repo/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$USER_HOME$/maven/gradle/repo/org/junit/jupiter/junit-jupiter-api/5.9.1/junit-jupiter-api-5.9.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.junit.platform:junit-platform-commons:1.9.1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/maven/gradle/repo/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/maven/gradle/repo/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$USER_HOME$/maven/gradle/repo/org/junit/platform/junit-platform-commons/1.9.1/junit-platform-commons-1.9.1-sources.jar!/" />
+      </SOURCES>
+    </library>
+    <library name="Maven: org.opentest4j:opentest4j:1.2.0">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/maven/gradle/repo/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="jar://$USER_HOME$/maven/gradle/repo/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-javadoc.jar!/" />
+      </JAVADOC>
+      <SOURCES>
+        <root url="jar://$USER_HOME$/maven/gradle/repo/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-sources.jar!/" />
+      </SOURCES>
+    </library>
+  </component>
+</project>
